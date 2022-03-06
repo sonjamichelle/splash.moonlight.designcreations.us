@@ -73,11 +73,11 @@ include ('links.php');
 <div id='account'><fieldset class='account'> 
 <center>
 <br>
-<a href="http://moonlight.designcreations.us:8000/jopensim/index.php/component/users/?view=registration&Itemid=101">Create an Account</a><br>
+<a href="http://moonlight.designcreations.us:80/jopensim/index.php/component/users/?view=registration&Itemid=101">Create an Account</a><br>
 <br>
-<a href="http://moonlight.designcreations.us:8000/jopensim/index.php/component/users/?view=remind&Itemid=101">Forgot Username</a><br>
+<a href="http://moonlight.designcreations.us:80/jopensim/index.php/component/users/?view=remind&Itemid=101">Forgot Username</a><br>
 <br>
-<a href="http://moonlight.designcreations.us:8000/jopensim/index.php/component/users/?view=reset&Itemid=101">Reset Password</a><br>
+<a href="http://moonlight.designcreations.us:80/jopensim/index.php/component/users/?view=reset&Itemid=101">Reset Password</a><br>
 
 <br>
 </center>
