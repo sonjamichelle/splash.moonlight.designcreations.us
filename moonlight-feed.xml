@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Moonlight News Feed</title>
+        <description>News and Information from The Moonlight Grid</description>
+        <link>http://www.moonlight-grid.com</link>
+        <lastBuildDate>Mon, 14 Oct 2019 23:59:00 -0500</lastBuildDate>
+        <pubDate>Mon, 14 Oct 2019 23:59:00 -0500</pubDate>
+        <generator>FeedForAll v2.0 (2.0.2.9) http://www.feedforall.com</generator>
+        <item>
+            <title>Chugga Chugga</title>
+            <description>We&apos;re chugging along&lt;br /&gt;
+&lt;br /&gt;
+Kind of feels like a yo yo roller coaster ride. We've built quite a nice world. Just we have no good place to host it. We&apos;re limping along so we do have somewhat of a presence on the net. Just not up to full speed. Donations are always welcomed!</description>
+            <guid isPermaLink="false">ce2192b0-1cd8-4b9f-93c3-0bea56fc3a9d</guid>
+            <pubDate>Mon, 14 Oct 2019 23:59:00 -0500</pubDate>
+        </item>
+		<item>
+            <title>Back In The Saddle Again!</title>
+            <description>Weeee&apos;re Baaaack!&lt;br /&gt;
+&lt;br /&gt;
+After some downtime we were able to sort out the tech issues, mostly. Performance is a bit degraded while we run on backup servers. Hopefully that will be remedied in the coming weeks</description>
+            <guid isPermaLink="false">24249ADE-1738-4F0E-8193-29A248286C97</guid>
+            <pubDate>Mon, 25 Mar 2019 10:09:56 -0500</pubDate>
+        </item>
+        <item>
+            <title>All New Design!</title>
+            <description>With the help and contribution of Vinhold Starbrook, The Moonlight Grid Website has a whole new design. We also have new functionality as well! No longer are new Avatars logged in as a cloud!</description>
+            <link>http://www.moonlight-grid.com</link>
+            <guid isPermaLink="false">0C51508D-C724-4329-91BB-33EF96D41E03</guid>
+            <pubDate>Mon, 7 Nov 2016 15:23:26 -0500</pubDate>
+        </item>
+        <item>
+            <title>Sonja&apos;s Slice</title>
+            <description>Ever wanted to know what goes on behind the the minds or at least desks of the developers? Check out Sonja&apos;s Slice of the Grid for tidbits from the Discover Creo Mundos, SecondLife, Moonlight Grid and OpenSim grids.</description>
+            <link>http://sonja.moonlight-grid.com</link>
+            <author>sonja.galileo@moonlight-grid.com</author>
+            <guid isPermaLink="false">83B0BF16-206C-42C0-81F9-823F688D6809</guid>
+            <pubDate>Thu, 27 Oct 2016 13:21:33 -0400</pubDate>
+        </item>
+        <item>
+            <title>Website Additions</title>
+            <description>The Moonlight Grid Website is coming along. We&apos;ve added a login page that brings you to a couple of other pages. We&apos;re still under construction so the content is pretty light. But stay tuned!</description>
+            <link>http://www.moonlight-grid.com</link>
+            <author>sonja@moonlight-grid.com</author>
+            <guid isPermaLink="false">840B0C78-D115-4511-BE92-7F1D83620F47</guid>
+            <pubDate>Thu, 27 Oct 2016 12:59:45 -0400</pubDate>
+        </item>
+        <item>
+            <title>Join In On The Fun!</title>
+            <description>Now you can join us on the Moonlight Grid. Visit the New Create An Avatar Account page now.</description>
+            <link>http://www.moonlight-grid.com/create_user.php</link>
+            <author>sonja@moonlight-grid.com</author>
+            <guid isPermaLink="false">1DDE2FE2-7219-4470-B36D-371EBDB76BB2</guid>
+            <pubDate>Mon, 24 Oct 2016 12:47:19 -0400</pubDate>
+        </item>
+        <item>
+            <title>The Moonlight Grid Goes Live!</title>
+            <description>The Moonlight Grid moves to a powerful new server and goes live!</description>
+            <link>http://www.moonlight-grid.com</link>
+            <guid isPermaLink="false">F0CE34D0-64A6-41E2-856E-256BCEAB95F7</guid>
+            <pubDate>Sat, 1 Oct 2016 00:01:18 -0400</pubDate>
+        </item>
+    </channel>
+</rss>
