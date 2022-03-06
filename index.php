@@ -5,7 +5,7 @@
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="Pragma" content="no-cache">
 <link id="main" rel="stylesheet" href="splash.css" type="text/css" media="screen"/>
-<title>Eoonlight Estates Splash</title>
+<title>Moonlight Estates Splash</title>
 
 </head>
 
