@@ -35,7 +35,7 @@ echo "<font color=#FFFFFF>Active users (last 30 days)</font> : ". $activeUsers .
 echo "<font color=#FFFFFF>Active users (last  7 days)</font> : ". $activeUsers7 ."<font color=#b0c4de><br>";
 echo "<font color=#FFFFFF>Active users (last 24 hours)</font> : ". $activeUsers24 ."<font color=#b0c4de><br>";
 echo "<font color=#FFFFFF>Total Registered Users</font> : ". $totalAccounts ."<font color=#b0c4de><br>";
-if (file_get_contents("http://sonja.hopto.org:9500/simstatus/") == 'OK'){
+if (file_get_contents("http://198.204.250.101:9500/simstatus/") == 'OK'){
 	
 	echo "<font color=#FFFFFF>Grid is</font> <font color=#00AA00>ONLINE</font></b><br></div>";
 	
